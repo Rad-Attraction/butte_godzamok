@@ -1,0 +1,12 @@
+{
+	"Name": "Godzamok Roar",
+	"ID": "godzamok_roar",
+	"Author": "Butte",
+	"Description": "Mash g to trigger Godzamok by selling all farms and immediately buying 100. Allows Steam Achievements.",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "20/12/2023",
+	"Dependencies": [],
+	"Disabled": 1,
+	"AllowSteamAchievs":1
+}
