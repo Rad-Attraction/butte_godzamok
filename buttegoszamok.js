@@ -10,7 +10,7 @@ javascript:( function () {
         var l = String.fromCharCode(e.which).toLowerCase();
         if (l == 'g')
         {
-            Game.Objects.Farm.sell(100,1);
+            Game.Objects.Farm.sell(-1,1);
             Game.Objects.Farm.buy(100);
             /*
             helpful spritesheet:
